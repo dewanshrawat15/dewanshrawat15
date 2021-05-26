@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=dewanshrawat15&color=8670ff)
+
 My name is Dewansh Rawat. I love building new exciting full end to end products. I like to identify simple daily life problems we face and find ways to solve them by writing code.
 
 ## I’m currently working on 💻
@@ -32,7 +35,6 @@ Have an opportunity that might be a fit for me? Wanna discuss a project? Need an
   <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 </div>
-
 
 ## My Github Repo Stats 📈
 
