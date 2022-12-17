@@ -5,9 +5,9 @@
 My name is Dewansh Rawat. I love building new exciting full end to end products. I like to identify simple daily life problems we face and find ways to solve them by writing code.
 
 ## I’m currently working on 💻
-I'm a full stack intern at Sony Research India. I work on tools and frameworks such as MERN, Django, Flask, React Native, Flutter, AWS. I keep on building interesting stuff. I love to build neat UI/UXs, robust backend structures and shipping them all together.
+I'm currently working as an Engineer at Udaan. I work in the Customer Platform team, thinking about ways to ramp up add to conversions, search volumes and order creations. Currently, I'm working on a project, aimed at increasing the search volumes, add to cart conversions and order creations for Pharma users in the B2B world.
 
-I used to lead the Google Developer Student Clubs at Bharati Vidyapeeth Deemed University College of Engineering Pune. We host events and workshops for students to learn new stuff and get direction towards a career goal.
+I also work on tools and frameworks such as MERN, Django, Flask, React Native, Flutter, AWS. I keep on building interesting stuff. I love to build neat UI/UXs, robust backend structures and shipping them all together.
 
 ## How to reach me 📫
 Have an opportunity that might be a fit for me? Wanna discuss a project? Need any sort of guidance? Feel free to drop in a text and I'll respond ASAP.
